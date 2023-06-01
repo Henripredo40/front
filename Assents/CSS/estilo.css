@@ -1,0 +1,55 @@
+body{
+    background-color: white;
+    border: #ffc000;
+}
+#nav{
+    
+    float: left;
+    
+}
+#main{
+
+    height: 800px;
+    width: 1870px;
+    
+
+}
+
+#fooster{
+    
+    clear: both;
+}
+.element{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    height: 700px;
+    width: 1200px;
+    font-size: 50px;
+    background-color: #ffc000;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    height: 700px;
+    width: 1200px;
+    font-size: 20px;
+    background-color: #ffc000;
+    
+}
+.box{
+    font-size: 20px;
+}
+.tam{
+    width: 400px;
+    height: 40px;
+}
+
+
+
+
+
